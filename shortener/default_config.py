@@ -32,8 +32,8 @@ EMAIL = {
 # Website settings
 WEBSITE = {
     "title": "Rly.li URL Shortener", # Also used as app name
-    "description": "Rly.li is lightweight service that takes long URLs and squeezes them into fewer characters \
-                    to make a link that is easier to share, tweet, or email to friends.",
+    "description": "Rly.li is lightweight service that takes long URLs and squeezes them into fewer characters " \
+                   "to make a link that is easier to share, tweet, or email to friends.",
     "author": "David Sn",
     "copyright": "2015-2018 David Sn", # Displayed on the footer
 }
