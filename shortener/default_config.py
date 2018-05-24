@@ -12,7 +12,7 @@ SECRET_KEY = "<paste here the output of $(</dev/urandom tr -dc A-Za-z0-9 | head 
 # Database settings
 DATABASE = {
     "backend": "mongodb", # You can select between redis and mongodb
-    "host": "localhost",
+    "hostname": "localhost",
     "port": 27015,
     "username": "", # Leave this empty if using redis
     "password": "",
